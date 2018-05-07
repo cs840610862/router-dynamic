@@ -16,3 +16,8 @@ npm run dev
 # build
 npm run build
 ```
+
+1. 整合目录
+1. 添加react-redux
+1. 添加热加载
+1. 添加less
